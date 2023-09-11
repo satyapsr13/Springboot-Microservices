@@ -51,4 +51,4 @@ Before you can run the microservices, ensure you have the following prerequisite
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/spring-boot-microservices.git
+   git clone https://github.com/satyapsr13/spring-boot-microservices.git
